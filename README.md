@@ -1,1 +1,1 @@
-# git-HospitalManagement-SpringBoot-Simple-Project
+# git-ApnaHealth-SpringBoot-RestApi-Project
